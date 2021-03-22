@@ -22,6 +22,11 @@ https://mmuthye.shinyapps.io/TempConverter/
 - Click the Submit button to find the converted temperature value, and the date selected in the date picker
 - Play around with more options :)
 
+## Code Details
+
+- Shiny code this application can be found in the *TempConverter* Directory
+- Code for pitch presentation can be found in the root in *TempConverterPitch.md* file
+
 ## Thank You!
 
 Thank you for visiting ths file.
