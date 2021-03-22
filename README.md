@@ -25,7 +25,10 @@ https://mmuthye.shinyapps.io/TempConverter/
 ## Code Details
 
 - Shiny code this application can be found in the *TempConverter* Directory
+- Path: https://github.com/mmuthye/TempConverter/tree/main/TempConverter
+
 - Code for pitch presentation can be found in the root in *TempConverterPitch.md* file
+- Path: https://github.com/mmuthye/TempConverter/blob/main/TempConverterPitch.md
 
 ## Thank You!
 
