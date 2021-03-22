@@ -1,0 +1,12 @@
+name: TempConverter
+title: TempConverter
+username:
+account: mmuthye
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3831490
+bundleId: 4379524
+url: https://mmuthye.shinyapps.io/TempConverter/
+when: 1616412804.58298
+asMultiple: FALSE
+asStatic: FALSE
