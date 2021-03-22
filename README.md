@@ -25,10 +25,16 @@ https://mmuthye.shinyapps.io/TempConverter/
 ## Code Details
 
 - Shiny code this application can be found in the *TempConverter* Directory
-- Path: https://github.com/mmuthye/TempConverter/tree/main/TempConverter
+-- Path: https://github.com/mmuthye/TempConverter/tree/main/TempConverter
 
-- Code for pitch presentation can be found in the root in *TempConverterPitch.md* file
-- Path: https://github.com/mmuthye/TempConverter/blob/main/TempConverterPitch.md
+- Code for pitch presentation can be found in the root in *TempConverterPitch.Rpres* file
+-- Path: https://github.com/mmuthye/TempConverter/blob/main/TempConverterPitch.Rpres
+
+- Markdown version of the pitch document can be found in the root in *TempConverterPitch.md* file
+-- Path: https://github.com/mmuthye/TempConverter/blob/main/TempConverterPitch.md
+
+- Pitch presentation is published in RPubs
+-- Path: https://rpubs.com/mandar_m/743248
  
 ## Thank You!
 
